@@ -56,4 +56,4 @@ $ expo start
 ## Vídeo de apresentação 📽️
 
 ## Link do projeto 🔗
-https://feedget-3arzsn41a-medriel.vercel.app
+https://feedget-mocha.vercel.app/
