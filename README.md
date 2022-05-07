@@ -11,8 +11,8 @@
 Clone o projeto e acesse a sua pasta.
 
 ```cl
-git clone https://github.com/medriel/FeedGet.git
-cd FeedGet
+$ git clone https://github.com/medriel/FeedGet.git
+$ cd FeedGet
 ```
 Para iniciar o servidor 🖥️, siga os passos abaixo:
 
