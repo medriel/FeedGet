@@ -54,6 +54,7 @@ $ expo start
 ```
 
 ## Vídeo de apresentação 📽️
+https://www.linkedin.com/feed/update/urn:li:activity:6928685305923280896/
 
 ## Link do projeto 🔗
 https://feedget-mocha.vercel.app/
