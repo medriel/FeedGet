@@ -5,6 +5,9 @@
 </div>
 
 ## Tecnologias utilizadas ⚙️
+  - ReactJs
+  - NodeJs
+  - React Native
 
 ## Executando o projeto 👨🏻‍💻
 
