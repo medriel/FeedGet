@@ -22,6 +22,11 @@
     - Cors
      
   - React Native <img align="center" alt="Adriel-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  
+    - TypeScript
+    - Babel
+    - Expo
+    - Phosphor React Native
 
 ## Executando o projeto 👨🏻‍💻
 
