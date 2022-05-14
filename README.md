@@ -6,6 +6,12 @@
 
 ## Tecnologias utilizadas ⚙️
   - ReactJs <img align="center" alt="Adriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  
+    - TypeScript
+    - Tailwindcss
+    - Vite.js  
+    - Phosphor React
+
   - NodeJs <img align="center" alt="Adriel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
   - React Native <img align="center" alt="Adriel-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 
